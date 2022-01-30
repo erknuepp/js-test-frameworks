@@ -7,9 +7,7 @@ const myPage = new EbayPage(driver, 'https://www.ebay.com/');
 test('Searching ebay', async() => {
     await myPage.navigate();
 
-    //await myPage.doSearch('puppies');
-
-    // execPath(results).toContain('puppies') Not sure what this is.
+    await myPage.doSearch('puppies');
 
     await driver.quit();
 })

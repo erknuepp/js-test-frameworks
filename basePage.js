@@ -29,8 +29,8 @@ module.exports = class BasePage {
     @param {By} elementBy - the locator for the element to clear
     @param {any} key - string or list of keys to send to the cleared input */
 
-    async setInput(element, keys) {
-        let input = element;
+    async setInput(elementBy, keys) {
+        const input = this.driver.findElement(elementBy);
         await input.clear();
         await input.sendKeys(keys);
     }
