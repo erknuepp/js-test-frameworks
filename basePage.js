@@ -41,5 +41,4 @@ module.exports = class BasePage {
     async getText(elementBy) {
         return (await this.getElement(elementBy)).getText();
     }
-
 }

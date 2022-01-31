@@ -1,4 +1,3 @@
-const { execPath } = require("process");
 const { Builder, Capabilities } = require("selenium-webdriver");
 const EbayPage = require("./ebayPage");
 const driver = new Builder().withCapabilities(Capabilities.chrome()).build();
