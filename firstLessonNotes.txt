@@ -1,0 +1,23 @@
+Arrange - Act - Assert
+Unit Testing
+Service Testing
+Integration Testing
+UI Testing
+Load Testing
+
+Acceptance
+Behavioral
+End To End
+
+Smoke vs Regression
+
+https://smartbear.com/learn/automated-testing/test-automation-frameworks/
+https://www.lambdatest.com/blog/best-test-automation-frameworks-2021/
+https://www.atlassian.com/continuous-delivery/software-testing
+https://www.geeksforgeeks.org/types-software-testing/
+https://www.selenium.dev/
+
+https://playwright.dev/
+
+Dev Tools - Lighthouse
+

@@ -1,0 +1,8 @@
+install vscode
+install node.js (add to path and restart)
+npm init to create package.json
+update package.json to run tests with jest
+install jest runner extension
+write a function
+write a test
+run test

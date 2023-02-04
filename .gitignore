@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+.vs/Brian K/FileContentIndex/6f11bb01-96b3-4aeb-b349-a1f751e0f204.vsidx
+.vs/Brian K/FileContentIndex/read.lock
+.vs/Brian K/v17/.wsuo
+
+.vs/Brian K/v17/TestStore/0/000.testlog
+.vs/Brian K/v17/TestStore/0/testlog.manifest
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
