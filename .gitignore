@@ -136,3 +136,4 @@ dist
 .vs/Brian K/v17/TestStore/0/testlog.manifest
 .vs/VSWorkspaceState.json
 .vs/slnx.sqlite
+jest-demo/api-test/secret.js
